@@ -11,8 +11,8 @@ You will need to follow an online tutorial to do so.
 
 ## What are you going to learn?
 
-- React components events
-- reusable React components
+-   React components events
+-   reusable React components
 
 ## Tasks
 
@@ -21,17 +21,19 @@ You will need to follow an online tutorial to do so.
 
 ## General requirements
 
-- There are todos when the app loads
-- New todos can be added by typing in an input field
-- A todo's title can be crossed out by clicking the Complete buttons
-- Todos can be removed by clicking the X button
-- The app is stylized with css
+-   There are todos when the app loads
+-   New todos can be added by typing in an input field
+-   A todo's title can be crossed out by clicking the Complete buttons
+-   Todos can be removed by clicking the X button
+-   The app is stylized with css
 
 ## Hints
 
-- the code is usually easier to understand when larger components are separated into new files
+-   the code is usually easier to understand when larger components are separated into new files
 
 ## Background materials
 
-- <i class="far fa-exclamation"></i> [React components](https://reactjs.org/docs/components-and-props.html)
-- <i class="far fa-exclamation"></i> [Event handling](https://reactjs.org/docs/handling-events.html)
+-   <i class="far fa-exclamation"></i> [React components](https://reactjs.org/docs/components-and-props.html)
+-   <i class="far fa-exclamation"></i> [Event handling](https://reactjs.org/docs/handling-events.html)
+
+https://www.digitalocean.com/community/tutorials/how-to-build-a-react-to-do-app-with-react-hooks

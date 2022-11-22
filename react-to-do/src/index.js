@@ -11,6 +11,12 @@ root.render(
   </React.StrictMode>
 );
 
+/* ? Hot Reload is not working in my React App
+A workaround is putting below code in index.js to enable reloading */
+if (module.hot) {
+  module.hot.accept();
+}
+
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
